@@ -7,7 +7,7 @@
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skydiver/ewelink-api.git"
+    "url": "git+https://github.com/jesusspr/ewelink-api.git"
   },
   "bugs": {
     "url": "https://github.com/skydiver/ewelink-api/issues"
