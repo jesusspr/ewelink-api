@@ -1,10 +1,5 @@
 const fs = require('fs');
-let arpping
 
-try {
-  arpping = require('arpping')({});
-} catch ( err ) {
-}
 
 class Zeroconf {
   /**
